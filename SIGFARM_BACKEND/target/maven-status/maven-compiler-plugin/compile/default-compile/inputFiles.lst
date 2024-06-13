@@ -1,0 +1,17 @@
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\controllers\ClienteController.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\controllers\InventarioController.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\controllers\OrdenVentaController.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\controllers\PedidoController.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\model\Cliente.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\model\Inventario.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\model\OrdenVenta.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\model\Pedido.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\repositories\ClienteRepository.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\repositories\InventarioRepository.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\repositories\OrdenVentaRepository.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\repositories\PedidoRepository.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\services\ClienteService.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\services\InventarioService.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\services\OrdenVentaService.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\services\PedidoService.java
+C:\Users\jhon\Desktop\SIGFARM_BACKEND\src\main\java\uni\isw\SigfarmBackendApplication.java
